@@ -1,0 +1,20 @@
+Distância total: 100km
+Velocidade do carro: 110km/h
+Velocidade do caminhão: 80km/h
+
+Tempo gasto pelo carro até o final do destino: 54,54min
+Tempo gasto pelo caminhão até o final do destino: 1h15min
+Tempo gasto pelo caminhão até o final do destino + 2 pedágios de 5 min: 1h25min
+Velocidade média do caminhão contando com o pedágio: 70,6km/h
+
+Igualando os tempos na equação já que ambos se encontram no mesmo lugar:
+t = x1/v1
+t = (x2 - 100km)/-v2
+(x-100km)/-v2
+
+-v2*x = v1*x - v1*100km
+x = (v1*100km)/(v1+v2) = ((110km/h)*100km)/ 110km/h + 70,6km/h
+
+x = 60,9km.
+
+Eles irão se encontrar no km 60,9, porém como irão se encontrar no mesmo lugar, a distância até a cidade será a mesma.
